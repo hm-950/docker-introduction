@@ -1,0 +1,27 @@
+﻿
+
+ Target             Ôöé  quiz-docker:initial  Ôöé   13C    92H    95M    17L     1?  
+   digest           Ôöé  4082310ef976         Ôöé                                    
+ Base image         Ôöé  node:18-alpine       Ôöé    7C    42H    31M    11L         
+ Updated base image Ôöé  node:26-alpine       Ôöé    1C    11H    13M     1L         
+                    Ôöé                       Ôöé    -6    -31    -18    -10         
+
+Policy status  FAILED  (2/7 policies met)
+Health score  E  (28%)
+
+ Status Ôöé                     Policy                     Ôöé           Results           
+ÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔö╝ÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔö╝ÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇ
+ !      Ôöé Image runs as the root user                    Ôöé                             
+ !      Ôöé Copyleft licensed packages found               Ôöé    17 packages              
+ !      Ôöé Fixable critical or high vulnerabilities found Ôöé   13C    92H     0M     0L  
+ !      Ôöé High-profile vulnerabilities found             Ôöé    0C     1H     1M     0L  
+ v      Ôöé No outdated base images                        Ôöé                             
+ v      Ôöé No unapproved base images                      Ôöé    0 deviations             
+ !      Ôöé Required supply chain attestations missing     Ôöé    2 deviations             
+
+What's next:
+    View policy violations ÔåÆ docker scout policy quiz-docker:initial
+    View vulnerabilities ÔåÆ docker scout cves quiz-docker:initial
+    View base image update recommendations ÔåÆ docker scout recommendations quiz-docker:initial
+    Compare with the latest in the registry ÔåÆ docker scout compare --to-latest quiz-docker:initial
+
